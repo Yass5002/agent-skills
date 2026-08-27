@@ -62,6 +62,17 @@ npx skills add Yass5002/agent-skills --skill webapp-testing -g
 | **`seo-competitor-pages`** | Comparison matrices and competitor alternative page architecture. | `npx skills add Yass5002/agent-skills --skill seo-competitor-pages -g` |
 | **`find-skills`** | Package discovery and skill installer assistant. | `npx skills add Yass5002/agent-skills --skill find-skills -g` |
 
+### 🛠️ Engineering & Productivity (Matt Pocock Collection)
+
+Imported from `mattpocock/skills` and available in this repo as first-class skills.
+
+Install any of these with:
+```bash
+npx skills add Yass5002/agent-skills --skill <skill-name> -g
+```
+
+`ask-matt`, `claude-handoff`, `code-review`, `codebase-design`, `diagnosing-bugs`, `domain-modeling`, `git-guardrails-claude-code`, `grill-me`, `grill-with-docs`, `grilling`, `handoff`, `implement`, `implement-spec`, `improve-codebase-architecture`, `loop-me`, `migrate-to-shoehorn`, `prototype`, `research`, `resolving-merge-conflicts`, `retro`, `scaffold-exercises`, `setup-matt-pocock-skills`, `setup-pre-commit`, `setup-ts-deep-modules`, `tdd`, `teach`, `to-questionnaire`, `to-spec`, `to-tickets`, `triage`, `wait-what`, `wayfinder`, `wizard`, `writing-beats`, `writing-for-agents`, `writing-fragments`, `writing-shape`
+
 ---
 
 ## 📜 License
